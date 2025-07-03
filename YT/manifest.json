@@ -1,0 +1,9 @@
+{
+    "manifest_version" : 3,
+    "name" : "Video QA chatbot",
+    "version" : "1.0",
+    "permissions" : [
+        "activeTab",
+        "scripting"
+    ],
+}
